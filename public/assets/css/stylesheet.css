@@ -1,0 +1,55 @@
+body{
+    background-color: beige;
+}
+    
+ /* graph */
+ element.style {
+    display: block;
+    height: 287px;
+    width: 681px;
+}
+
+.my-4 w-100 chartjs-render-monitor{
+    display: block; 
+    height: 278px; 
+    width: 659px;
+}
+.chartjs-render-monitor {
+    animation: chartjs-render-animation 1ms;
+}
+ .my-4 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.w-100 {
+    width: 100%!important;
+}
+::after, ::before {
+    box-sizing: border-box;
+}
+
+canvas{
+    aspect-ratio: auto 1362 / 574;
+}
+
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+
+
+/* SECONDARY CARDS */
+.rounded-3 {
+    margin: 0.2rem;
+    height: inherit;
+    width: 25rem;
+}
+h2 {
+    color: black;
+}
+  
